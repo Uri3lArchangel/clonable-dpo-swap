@@ -21,7 +21,7 @@ export default function Home() {
               <span className="text-sm bg-green-500 px-3 py-1 rounded-full">Arbitrum Network</span>
             </div>
             <p className="mt-2 text-gray-300">
-              Powered by DPO Global's Layer II Blockchain Ecosystem
+              Powered by DPO Global&apos;s Layer II Blockchain Ecosystem
             </p>
           </div>
 

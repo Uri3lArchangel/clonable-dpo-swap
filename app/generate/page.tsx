@@ -1609,7 +1609,7 @@ export default DpoTokenSwap;`;
               </h2>
               <ul className="list-disc pl-5 space-y-1 text-green-700 text-sm">
                 <li>This code is optimized for the DPO ecosystem on Arbitrum network</li>
-                <li>Includes built-in compliance with DPO's security token standards</li>
+                <li>Includes built-in compliance with DPO&apos;s security token standards</li>
                 <li>The swap flow automatically handles token approvals during the swap process</li>
                 <li>UI will detect and prompt to switch to Arbitrum network if needed</li>
                 <li>Replace API endpoint with your DPO-compatible swap service</li>
